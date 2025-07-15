@@ -3,7 +3,7 @@ This is demo for Git &amp; Github class.
 
 
 # Teacher
-shara singh
+sharad singh
 
 # Student
  aman singh
